@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48699" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:10:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48699" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:10:11Z">
+      <class name="com.Javapractice.Testngcheck">
+        <test-method status="PASS" signature="beforesuite1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="beforesuite1" is-config="true" duration-ms="24" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite1 -->
+        <test-method status="PASS" signature="beforeclass1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="beforeclass1" is-config="true" duration-ms="1" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass1 -->
+        <test-method status="PASS" signature="beforemethod1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="beforemethod1" is-config="true" duration-ms="0" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod1 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="test1" duration-ms="9" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="Aftermethod1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="Aftermethod1" is-config="true" duration-ms="0" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod1 -->
+        <test-method status="PASS" signature="beforemethod1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="beforemethod1" is-config="true" duration-ms="1" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="test2" duration-ms="1" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="Aftermethod1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="Aftermethod1" is-config="true" duration-ms="0" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod1 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="test4" duration-ms="5" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="beforemethod1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="beforemethod1" is-config="true" duration-ms="0" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod1 -->
+        <test-method status="PASS" signature="Aftermethod1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="Aftermethod1" is-config="true" duration-ms="0" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod1 -->
+        <test-method status="PASS" signature="beforemethod1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="beforemethod1" is-config="true" duration-ms="0" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod1 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="test5" duration-ms="3" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="Aftermethod1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="Aftermethod1" is-config="true" duration-ms="0" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod1 -->
+        <test-method status="PASS" signature="testngoperations()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="testngoperations" duration-ms="48619" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testngoperations -->
+        <test-method status="PASS" signature="beforemethod1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="beforemethod1" is-config="true" duration-ms="0" started-at="2019-08-31T21:09:22Z" finished-at="2019-08-31T21:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod1 -->
+        <test-method status="PASS" signature="Aftermethod1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="Aftermethod1" is-config="true" duration-ms="0" started-at="2019-08-31T21:10:11Z" finished-at="2019-08-31T21:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod1 -->
+        <test-method status="PASS" signature="test3()[pri:1, instance:com.Javapractice.Testngcheck@16d4b5c]" name="test3" duration-ms="1" started-at="2019-08-31T21:10:11Z" finished-at="2019-08-31T21:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="beforemethod1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="beforemethod1" is-config="true" duration-ms="0" started-at="2019-08-31T21:10:11Z" finished-at="2019-08-31T21:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod1 -->
+        <test-method status="PASS" signature="Aftermethod1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="Aftermethod1" is-config="true" duration-ms="1" started-at="2019-08-31T21:10:11Z" finished-at="2019-08-31T21:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod1 -->
+        <test-method status="PASS" signature="afterclass1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="afterclass1" is-config="true" duration-ms="0" started-at="2019-08-31T21:10:11Z" finished-at="2019-08-31T21:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass1 -->
+        <test-method status="PASS" signature="aftersuite1()[pri:0, instance:com.Javapractice.Testngcheck@16d4b5c]" name="aftersuite1" is-config="true" duration-ms="1" started-at="2019-08-31T21:10:11Z" finished-at="2019-08-31T21:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite1 -->
+      </class> <!-- com.Javapractice.Testngcheck -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
